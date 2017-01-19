@@ -1,4 +1,4 @@
-## Welcome to the page of the WMT Biomedical Translation Task
+## Welcome to the repositories of the WMT Biomedical Translation Task
 
 Here we list all various dataset that we have compiled for the [Biomedical Translation Task](http://www.statmt.org/wmt17/biomedical-translation-task.html) at [WMT](http://www.statmt.org/wmt17/index.html).
 
