@@ -5,7 +5,7 @@ Here we list all various dataset that we have compiled for the [Biomedical Trans
 - [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) of scientific publications
 - Redalyc dataset of scientific publications (coming soon)
 - [Medline](https://github.com/biomedical-translation-corpora/medline) dataset of titles of scientific publications
-- [ReBEC](https://github.com/biomedical-translation-corpora/rebec) clinical trials (coming soon)
+- [ReBEC](https://github.com/biomedical-translation-corpora/rebec) clinical trials
 
 ### Support or Contact
 
