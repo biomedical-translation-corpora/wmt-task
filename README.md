@@ -12,6 +12,9 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 Please contact us by [mail](wmtbiomedical@gmail.com). Please also joing our [discussion forum](https://groups.google.com/forum/?hl=en#!forum/wmt-biomedical-task). 
 
 Antonio Jimeno Yepes (IBM Research Australia)
+
 Aur&eacute;lie N&eacute;v&eacute;ol (LIMSI, CNRS, France)
+
 Mariana Neves (Hasso-Plattner Institute, Germany)
+
 Karin Verspoor (University of Melbourne, Australia)
