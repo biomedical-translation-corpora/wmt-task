@@ -13,5 +13,5 @@ Please contact us by [mail](wmtbiomedical@gmail.com). Please also join our [disc
 
 - Antonio Jimeno Yepes (IBM Research Australia)
 - Aur&eacute;lie N&eacute;v&eacute;ol (LIMSI, CNRS, France)
-- Mariana Neves (Hasso-Plattner Institute, Germany)
+- Mariana Neves (Hasso Plattner Institute, Germany)
 - Karin Verspoor (University of Melbourne, Australia)
