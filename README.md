@@ -2,7 +2,7 @@
 
 Here we host various datasets that we have compiled for the [Biomedical Translation Task](http://www.statmt.org/wmt17/biomedical-translation-task.html) at [WMT](http://www.statmt.org/wmt17/index.html).
 
-- EDP dataset of scientific publications (FR/EN)
+- [EDP](https://github.com/biomedical-translation-corpora/edp) dataset of scientific publications (FR/EN)
 - [Medline](https://github.com/biomedical-translation-corpora/medline) dataset of titles of scientific publications (FR/EN, PT/EN, ES/EN)
 - [ReBEC](https://github.com/biomedical-translation-corpora/rebec) clinical trials (PT/EN, ES/EN)
 - [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) of scientific publications (FR/EN, PT/EN, ES/PT)
@@ -27,6 +27,6 @@ Please cite our publications if you use our corpora.
 Bojar O, Chatterjee R, Federmann C, Graham Y, Haddow B, Huck M, Jimeno Yepes A, Koehn P, Logacheva V, Monz C, Negri M, Névéol A, Neves M, Popel M, Post M, Rubino R, Scarton C, Specia L, Turchi M, Verspoor K and Zampieri M. Findings of the 2016 Conference on Machine Translation, ACL 2016, Proceedings of the First Conference on Machine Translation (WMT16), pp. 131-198, 2016, Berlin, Germany. [PDF](https://aclweb.org/anthology/W/W16/W16-2301.pdf) [Bibtex](https://aclweb.org/anthology/W/W16/W16-2301.bib)
 
 (Scielo corpus)
-Neves M, Jimeno-Yepes A and Névéol A. The Scielo Corpus: a Parallel Corpus of Scientific Publications for Biomedicine, International Conference on Language Resources and Evaluation (LREC), 2016, Portoroz, Slovenia. [PDF and Bibtex] (http://www.lrec-conf.org/proceedings/lrec2016/summaries/800.html)
+Neves M, Jimeno-Yepes A and Névéol A. The Scielo Corpus: a Parallel Corpus of Scientific Publications for Biomedicine, International Conference on Language Resources and Evaluation (LREC), 2016, Portoroz, Slovenia. [PDF and Bibtex](http://www.lrec-conf.org/proceedings/lrec2016/summaries/800.html)
 
 
