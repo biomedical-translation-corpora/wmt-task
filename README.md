@@ -7,15 +7,6 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 - [ReBEC](https://github.com/biomedical-translation-corpora/rebec) clinical trials (PT/EN, ES/EN)
 - [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) of scientific publications (FR/EN, PT/EN, ES/PT)
 
-### Support or Contact
-
-Please contact us by [mail](wmtbiomedical@gmail.com). Please also join our [discussion forum](https://groups.google.com/forum/?hl=en#!forum/wmt-biomedical-task). 
-
-- Antonio Jimeno Yepes (IBM Research Australia)
-- Aur&eacute;lie N&eacute;v&eacute;ol (LIMSI, CNRS, France)
-- Mariana Neves (German Federal Institute for Risk Assessment, Germany)
-- Karin Verspoor (University of Melbourne, Australia)
-
 ### Publications
 
 Please cite our publications if you use our corpora. 
@@ -29,4 +20,11 @@ Bojar O, Chatterjee R, Federmann C, Graham Y, Haddow B, Huck M, Jimeno Yepes A, 
 (Scielo corpus)
 Neves M, Jimeno-Yepes A and Névéol A. The Scielo Corpus: a Parallel Corpus of Scientific Publications for Biomedicine, International Conference on Language Resources and Evaluation (LREC), 2016, Portoroz, Slovenia. [PDF and Bibtex](http://www.lrec-conf.org/proceedings/lrec2016/summaries/800.html)
 
+### Support or Contact
 
+Please contact us by [mail](wmtbiomedical@gmail.com). Please also join our [discussion forum](https://groups.google.com/forum/?hl=en#!forum/wmt-biomedical-task). 
+
+- Antonio Jimeno Yepes (IBM Research Australia)
+- Aur&eacute;lie N&eacute;v&eacute;ol (LIMSI, CNRS, France)
+- Mariana Neves (German Federal Institute for Risk Assessment, Germany)
+- Karin Verspoor (University of Melbourne, Australia)
